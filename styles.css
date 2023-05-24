@@ -1,7 +1,8 @@
-.container{
+.holder{
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
+	justify-content: center;
 }
 
 .green{
@@ -22,6 +23,6 @@
 	width: 100px;
 }
 
-.container div{
+.holder div{
 	color: white;
 }
